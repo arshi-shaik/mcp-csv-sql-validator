@@ -1,0 +1,5 @@
+id,customer_name,order_amount,status
+101,Rahul Sharma,250.50,completed
+102,,120.00,pending
+103,Priya Patel,,completed
+101,Rahul Sharma,250.50,completed
