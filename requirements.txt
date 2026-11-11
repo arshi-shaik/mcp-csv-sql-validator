@@ -1,0 +1,6 @@
+mcp
+pandas
+pydantic
+openpyxl
+sqlalchemy
+psycopg2-binary
